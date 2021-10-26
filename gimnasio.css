@@ -1,0 +1,13 @@
+*{color: #fff;}
+footer{background-color: #252528;
+       height: 80px}
+body{background-color: #2872e0;
+     color: #fff;}
+.formulario{
+    color: #fff;
+    width: 400px;
+    padding: 30px;}
+.table{
+    max-width: 1300px;
+padding: 30px;}
+.q{max-width: 75px;}
